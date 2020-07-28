@@ -1,4 +1,5 @@
 body {
+    background-image: url(images/spikes.png);
     @include body-font;
     padding-top: 54px;
     color: $gray-600;
